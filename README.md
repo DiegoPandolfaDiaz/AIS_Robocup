@@ -1,6 +1,6 @@
 # AIS_Robocup
 
-## Bitácora:
+## Bitácora de Software (AI y PDI):
 
 # Jornada de Trabajo: Sábado 06/05/2017:
 
@@ -21,5 +21,13 @@
 	- Se instala ubuntu 16.04 en el pc de Diego.
 
 	- Se intenta correr SSL-Vision.
+
+	- Se logra correr SSL-Vision en el computador de Max.
+
+	- Se obtienen imagenes de la cámara.
+
+	- Se creó máquina virtual de ubuntu con el simulador instalado.
+
+	- Se subirá a drive para su uso.
 
 -----------------------------------------------------------------------------
