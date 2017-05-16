@@ -31,3 +31,15 @@
 	- Se subirá a drive para su uso.
 
 -----------------------------------------------------------------------------
+
+# Jornada de Trabajo: Sábado 14/05/2017:
+
+-----------------------------------------------------------------------------
+        - Se comienza a probar la camara para reconocer los patrones de los robots
+	e integrar si funcionamiento al software que controla las jugadas.
+	
+	- Se analiza el formato para crear nuevas jugadas.
+	
+	- Se decide utilizar un puerdo COM virtual para probar la lectora de radiofreciencia
+	
+	
