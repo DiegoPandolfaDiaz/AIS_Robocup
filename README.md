@@ -43,4 +43,6 @@
 	
 	- Se decide utilizar un puerdo COM virtual para probar la lectora de radiofreciencia.
 	
+	- Se analiza el protocolo y funcionamiento de las antenas de radiofrecuencia. 
+	
 	
