@@ -46,3 +46,16 @@
 	- Se analiza el protocolo y funcionamiento de las antenas de radiofrecuencia. 
 	
 	
+-----------------------------------------------------------------------------
+
+# Jornada de Trabajo: Sábado 11/11/2017:
+
+-----------------------------------------------------------------------------
+        
+	- Reunión con Prof. Carvajal.
+
+	- Se logra enviar paquetes "hard coded" por medio del ATC220 desde el simulador.
+	
+	- Se trabaja en el pŕotocolo que RoboJackets genera para ser enviado.
+	
+	
