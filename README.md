@@ -59,3 +59,16 @@
 	- Se trabaja en el pŕotocolo que RoboJackets genera para ser enviado.
 	
 	
+-----------------------------------------------------------------------------
+
+# Jornada de Trabajo: Sábado 18/11/2017:
+
+-----------------------------------------------------------------------------
+        
+	- Se trabajó en el paquete.
+	
+	- Se pudieron obtener las velocidades para cada robot.
+	
+	- Se logró armar un paquete, pero no se logra enviar por la antena via write. (Write no acepta string, pero si un arreglo de carácteres).
+	
+	
