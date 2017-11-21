@@ -12,7 +12,7 @@ void velToBinPack(int id, int int_velx, int int_vely, int int_velw ){
 
 	string str_id = std::bitset<3>( id ).to_string();
 	string str_velx = std::bitset<5>( int_velx ).to_string(); //vel x to binary
-    string str_vely = std::bitset<5>( int_vely ).to_string(); //vel y to binary
+    	string str_vely = std::bitset<5>( int_vely ).to_string(); //vel y to binary
 	string str_velw = std::bitset<5>( int_velw ).to_string(); //vel w to binary
 	
 	char *c_id   = &str_id[0u];
