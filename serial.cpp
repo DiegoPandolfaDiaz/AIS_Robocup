@@ -32,13 +32,18 @@ void velToBinPack(int id, int int_velx, int int_vely, int int_velw ){
 
 int main(int argc, char const *argv[])
 {
-	velToBinPack(1, 11,  0, 0);
+    int a = 15, b = 10;
+	/*velToBinPack(1, 11,  0, 0);
 	velToBinPack(2, 11,  1, 0);
 	velToBinPack(3, 13,  0, 1);
 	velToBinPack(4,  0,  0, 0);
 	velToBinPack(5,  6,  2, 1);
-	velToBinPack(6, 10,  1, 1);
-	printf("\nlisto el pack");
-
-	return 0;
+	velToBinPack(6, 10,  1, 1);*/
+	//printf("%s \n", test2.c_str());
+	//printf("\nlisto el pack");
+   char buff[16];//enough for 64 bits integer
+   sprintf(buff, "%X", a);
+   sprintf(buff + strlen(buff), "%X", b);
+   printf("%s \n", buff);
+   return 0;
 }
