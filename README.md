@@ -72,3 +72,14 @@
 	- Se logró armar un paquete, pero no se logra enviar por la antena via write. (Write no acepta string, pero si un arreglo de carácteres).
 	
 	
+-----------------------------------------------------------------------------
+
+# Jornada de Trabajo: Sábado 25/11/2017:
+
+-----------------------------------------------------------------------------
+        
+	- Se siguió trbajando en el paquete.
+	
+	- Se definió estructura del paquete (3 B por velocidad*1000 en hex).
+
+	- Aún falta determinar si se enviará un solo paquete o uno por robot con ID.
