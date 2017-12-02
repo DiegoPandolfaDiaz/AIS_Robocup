@@ -78,8 +78,23 @@
 
 -----------------------------------------------------------------------------
         
-	- Se siguió trbajando en el paquete.
+	- Se siguió trabajando en el paquete.
 	
 	- Se definió estructura del paquete (3 B por velocidad*1000 en hex).
 
 	- Aún falta determinar si se enviará un solo paquete o uno por robot con ID.
+		
+	
+-----------------------------------------------------------------------------
+
+# Jornada de Trabajo: Sábado 02/12/2017:
+
+-----------------------------------------------------------------------------
+        
+	- Se siguió trabajando en el paquete.
+	
+	- Se logra armar un paquete de largo fijo por velocidad.
+	
+	- Se logra enviar el paquete por RF desde el simulador.
+	
+	
