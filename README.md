@@ -97,4 +97,12 @@
 	
 	- Se logra enviar el paquete por RF desde el simulador.
 	
+-----------------------------------------------------------------------------
+
+# Jornada de Trabajo: Sábado 09/12/2017:
+
+-----------------------------------------------------------------------------
+        
+	- Se siguió trabajando en el paquete.
+	
 	
